@@ -1,5 +1,5 @@
 # IDEA_Clave_duplicada
-Sobre IDEA versión 11 y el comando Clave duplicada en IDEAScript y Python.
+Sobre IDEA versión 11 y el comando Clave duplicada modalidad DETECCION en IDEAScript y Python.
 
 Se presenta un ejemplo del ejecución del comando en formato IDEAScript y en Python. El archivo sobre el cual se ejecuta el script es una tabla de IDEA: Ejemplo-Detalle de ventas.IMD.
 
