@@ -7,3 +7,11 @@ De esta manera se da un ejemplo de la interacción entre el software de Auditori
 
 Permite detectar si en un determinado campo se encuentra información duplicada. 
 Aplicaciones prácticas: Obtención de duplicados de adquisiciones en un registro de compras, válido para fines de control tributario.
+
+Se presentan los tres tipos de clave duplicada:
+
+Detección.
+
+Exclusión.
+
+Aproximada.
